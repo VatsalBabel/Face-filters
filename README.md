@@ -1,2 +1,2 @@
 # Face-filters
-Applying PigNose face filter using openCV.
+Applying Pig Nose face filter using openCV.
